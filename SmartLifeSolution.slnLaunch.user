@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SmartLifeSolution\\SmartLifeSolution.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MqttServer\\MqttServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "CreateBucketAsync",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accessToken",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "UploadFileAsync",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accessToken",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "bucket_key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "TranslateToSVFAsync",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accessToken",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "objectUrn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "GetForgeAccessToken",
+    "RelativePath": "api/Auth",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "CreateNewPassword",
+    "RelativePath": "api/Auth/CreateNewPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Auth.CreatePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "GetFileInfo",
+    "RelativePath": "api/Auth/getfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "GitHubCallback",
+    "RelativePath": "api/Auth/githublogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Auth.GitHubTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/Auth/googlelogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartLifeSolution.DAL.Dto.Auth.GoogleLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SmartLifeSolution.DAL.Dto.Auth.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SmartLifeSolution.DAL.Dto.Auth.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "SendCode",
+    "RelativePath": "api/Auth/SendCode/{email}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "SendResetPasswordLink",
+    "RelativePath": "api/Auth/SendResetLink/{email}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.AuthController",
+    "Method": "VerifyCode",
+    "RelativePath": "api/Auth/verifycode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Auth.VerifyCodeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.DashboardController",
+    "Method": "GetDashboardDetails",
+    "RelativePath": "api/Dashboard/details/{DashboardId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DashboardId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.DashboardController",
+    "Method": "GetUserDashboard",
+    "RelativePath": "api/Dashboard/userdashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayController",
+    "Method": "AddOrUpdate",
+    "RelativePath": "api/Gateway/addorupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Gateway.GatewayDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayController",
+    "Method": "Delete",
+    "RelativePath": "api/Gateway/delete/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayController",
+    "Method": "Dropdowns",
+    "RelativePath": "api/Gateway/dropdowns",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayController",
+    "Method": "Edit",
+    "RelativePath": "api/Gateway/edit/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayController",
+    "Method": "GetAll",
+    "RelativePath": "api/Gateway/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayController",
+    "Method": "GetDevices",
+    "RelativePath": "api/Gateway/getdevices/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "AddOrUpdate",
+    "RelativePath": "api/GatewayDevice/addorupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.GatewayDevice.DevicesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "Delete",
+    "RelativePath": "api/GatewayDevice/delete/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "Downlink",
+    "RelativePath": "api/GatewayDevice/downlink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartLifeSolution.DAL.Dto.GatewayDevice.DownlinkRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "GetDropdowns",
+    "RelativePath": "api/GatewayDevice/dropdowns",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "Edit",
+    "RelativePath": "api/GatewayDevice/edit/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "GetAll",
+    "RelativePath": "api/GatewayDevice/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.GatewayDeviceController",
+    "Method": "GetPagedData",
+    "RelativePath": "api/GatewayDevice/GetPagedData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Size",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Skip",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.MenuController",
+    "Method": "AddOrUpdate",
+    "RelativePath": "api/Menu/addorupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Menu.MenuDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.MenuController",
+    "Method": "Assign",
+    "RelativePath": "api/Menu/assign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Menu.UserMenuDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.MenuController",
+    "Method": "GetAll",
+    "RelativePath": "api/Menu/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.MenuController",
+    "Method": "GetMenusByRoleId",
+    "RelativePath": "api/Menu/getmenusbyroleid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.PaymentController",
+    "Method": "CreateCheckoutSession",
+    "RelativePath": "api/Payment/webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SmartLifeSolution.BLL.Helpers.PaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SmartBuilding.SmartBuildingController",
+    "Method": "AddAppliances",
+    "RelativePath": "api/SmartBuilding/addappliances",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Appliances.ApplianceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SmartBuilding.SmartBuildingController",
+    "Method": "AddBuilding",
+    "RelativePath": "api/SmartBuilding/addbuilding",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.SmartBuildings.SmartBuildingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SmartBuilding.SmartBuildingController",
+    "Method": "AddFloor",
+    "RelativePath": "api/SmartBuilding/addfloor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.SmartBuildings.FloorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SmartBuilding.SmartBuildingController",
+    "Method": "AddRoom",
+    "RelativePath": "api/SmartBuilding/addroom",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.SmartBuildings.RoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SubscriptionPlanController",
+    "Method": "AddOrUpdate",
+    "RelativePath": "api/SubscriptionPlan/addorupdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Subscription.SubscriptionPlanDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SubscriptionPlanController",
+    "Method": "Delete",
+    "RelativePath": "api/SubscriptionPlan/delete/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SubscriptionPlanController",
+    "Method": "Edit",
+    "RelativePath": "api/SubscriptionPlan/edit/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.SubscriptionPlanController",
+    "Method": "GetAll",
+    "RelativePath": "api/SubscriptionPlan/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.TemplateController",
+    "Method": "Add",
+    "RelativePath": "api/Template/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.Templates.AddTemplateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.TemplateController",
+    "Method": "GetTemplateById",
+    "RelativePath": "api/Template/get/{TemplateId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TemplateId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.TemplateController",
+    "Method": "GetAllTemplates",
+    "RelativePath": "api/Template/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.UserDashboardController",
+    "Method": "Add",
+    "RelativePath": "api/UserDashboard/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.UserDashboards.AddDashboardDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.UserDashboardController",
+    "Method": "Delete",
+    "RelativePath": "api/UserDashboard/delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DashboardId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.UserDashboardController",
+    "Method": "GetDashboardById",
+    "RelativePath": "api/UserDashboard/get/{DashboardId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DashboardId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.UserDashboardController",
+    "Method": "GetAllDashboards",
+    "RelativePath": "api/UserDashboard/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartLifeSolution.Controllers.UserSubscriptionController",
+    "Method": "Subscribe",
+    "RelativePath": "api/UserSubscription/subscribe",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Dto",
+        "Type": "SmartLifeSolution.DAL.Dto.UserSubscription.UserSubscriptionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

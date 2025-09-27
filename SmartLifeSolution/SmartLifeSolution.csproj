@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.69.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartLifeSolution.BLL\SmartLifeSolution.BLL.csproj" />
+  </ItemGroup>
+
+<Target Name="PublishReactApp" AfterTargets="Publish">
+  <!-- Set working directory to React app folder -->
+  <Exec Command="npm install" WorkingDirectory="smartlifeweb" />
+  <Exec Command="npm run build" WorkingDirectory="smartlifeweb" />
+
+  <!-- Copy React build output to wwwroot -->
+  <ItemGroup>
+    <DistFiles Include="smartlifeweb\dist\**\*" />
+  </ItemGroup>
+
+  <Copy SourceFiles="@(DistFiles)" DestinationFolder="wwwroot\%(RecursiveDir)" SkipUnchangedFiles="true" />
+</Target>
+
+
+</Project>

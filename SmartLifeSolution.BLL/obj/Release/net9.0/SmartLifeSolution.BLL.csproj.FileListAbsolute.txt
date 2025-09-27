@@ -1,0 +1,15 @@
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\bin\Release\net9.0\SmartLifeSolution.BLL.deps.json
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\bin\Release\net9.0\SmartLifeSolution.BLL.dll
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\bin\Release\net9.0\SmartLifeSolution.BLL.pdb
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\bin\Release\net9.0\SmartLifeSolution.DAL.dll
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\bin\Release\net9.0\SmartLifeSolution.DAL.pdb
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.csproj.AssemblyReference.cache
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.AssemblyInfoInputs.cache
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.AssemblyInfo.cs
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.csproj.CoreCompileInputs.cache
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLif.685F972F.Up2Date
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.dll
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\refint\SmartLifeSolution.BLL.dll
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\SmartLifeSolution.BLL.pdb
+D:\myprojects\smartlifesolution\SmartLifeSolution\SmartLifeSolution.BLL\obj\Release\net9.0\ref\SmartLifeSolution.BLL.dll

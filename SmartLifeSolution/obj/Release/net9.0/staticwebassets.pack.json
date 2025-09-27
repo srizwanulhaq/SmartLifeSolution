@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SmartLifeSolution.aggbpj5b9v.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Apple_Icon.png",
+      "PackagePath": "staticwebassets\\Apple_Icon.png"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Google_Icon.png",
+      "PackagePath": "staticwebassets\\Google_Icon.png"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-BrejhCoQ.js",
+      "PackagePath": "staticwebassets\\assets\\index-BrejhCoQ.js"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-CODeLwE2.css",
+      "PackagePath": "staticwebassets\\assets\\index-CODeLwE2.css"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-DY1Lnfhq.css",
+      "PackagePath": "staticwebassets\\assets\\index-DY1Lnfhq.css"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-Df1q8VJG.js",
+      "PackagePath": "staticwebassets\\assets\\index-Df1q8VJG.js"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-FVXuzn6g.js",
+      "PackagePath": "staticwebassets\\assets\\index-FVXuzn6g.js"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\bg-auth.png",
+      "PackagePath": "staticwebassets\\bg-auth.png"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\fav.png",
+      "PackagePath": "staticwebassets\\fav.png"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\github_Icon.png",
+      "PackagePath": "staticwebassets\\github_Icon.png"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.SmartLifeSolution.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.SmartLifeSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.SmartLifeSolution.props",
+      "PackagePath": "build\\SmartLifeSolution.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SmartLifeSolution.props",
+      "PackagePath": "buildMultiTargeting\\SmartLifeSolution.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.SmartLifeSolution.props",
+      "PackagePath": "buildTransitive\\SmartLifeSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

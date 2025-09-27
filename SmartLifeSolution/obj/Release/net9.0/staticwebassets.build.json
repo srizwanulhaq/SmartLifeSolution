@@ -1,0 +1,3700 @@
+{
+  "Version": 1,
+  "Hash": "11syL/1HUz33EsNWkZ2xTeSJW5J9rZFVTpJLgnMw9Xo=",
+  "Source": "SmartLifeSolution",
+  "BasePath": "_content/SmartLifeSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SmartLifeSolution\\wwwroot",
+      "Source": "SmartLifeSolution",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\4jifzij1u8-aggbpj5b9v.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "SmartLifeSolution#[.{fingerprint=aggbpj5b9v}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\SmartLifeSolution.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q9rhzrkszl",
+      "Integrity": "TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\SmartLifeSolution.styles.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\5tkgpo8zro-5oxsbz4eul.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-CODeLwE2#[.{fingerprint=5oxsbz4eul}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-CODeLwE2.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g1w6s76856",
+      "Integrity": "TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-CODeLwE2.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\8c8w5zwv22-i5d44bnc3y.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-BrejhCoQ#[.{fingerprint=i5d44bnc3y}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-BrejhCoQ.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9fqpzolxvy",
+      "Integrity": "BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-BrejhCoQ.js"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\hp42efmdr2-76pqtp3yg7.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "index#[.{fingerprint=76pqtp3yg7}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "llyk95u81v",
+      "Integrity": "11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\jmyqlqlgbv-69kjnsiwqx.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "vite#[.{fingerprint=69kjnsiwqx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\vite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xj979drvbl",
+      "Integrity": "42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\vite.svg"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\mf9s6fpuol-wxhvy5g8rx.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-DY1Lnfhq#[.{fingerprint=wxhvy5g8rx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-DY1Lnfhq.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8vw5m211zv",
+      "Integrity": "pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-DY1Lnfhq.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\nqc7f4ojsz-aggbpj5b9v.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "SmartLifeSolution#[.{fingerprint=aggbpj5b9v}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q9rhzrkszl",
+      "Integrity": "TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\oor3uh5ztt-0r10hgpfil.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-Df1q8VJG#[.{fingerprint=0r10hgpfil}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-Df1q8VJG.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "egp269r20r",
+      "Integrity": "XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-Df1q8VJG.js"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\yrakonpi03-cb2yupf0uo.gz",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-FVXuzn6g#[.{fingerprint=cb2yupf0uo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-FVXuzn6g.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1dsmzyagv8",
+      "Integrity": "61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-FVXuzn6g.js"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\SmartLifeSolution.styles.css",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "SmartLifeSolution#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "aggbpj5b9v",
+      "Integrity": "Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\SmartLifeSolution.styles.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "SmartLifeSolution#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "aggbpj5b9v",
+      "Integrity": "Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Apple_Icon.png",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "Apple_Icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bdbmobmrrk",
+      "Integrity": "DycTL8l5J8ctF68heVxxFwZ3UUWC/KMrE8aiiW1W22I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Apple_Icon.png"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-BrejhCoQ.js",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-BrejhCoQ#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i5d44bnc3y",
+      "Integrity": "lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-BrejhCoQ.js"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-CODeLwE2.css",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-CODeLwE2#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5oxsbz4eul",
+      "Integrity": "i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CODeLwE2.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-Df1q8VJG.js",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-Df1q8VJG#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0r10hgpfil",
+      "Integrity": "JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-Df1q8VJG.js"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-DY1Lnfhq.css",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-DY1Lnfhq#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wxhvy5g8rx",
+      "Integrity": "lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-DY1Lnfhq.css"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-FVXuzn6g.js",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "assets/index-FVXuzn6g#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cb2yupf0uo",
+      "Integrity": "OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-FVXuzn6g.js"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\bg-auth.png",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "bg-auth#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ps5xxbcpvm",
+      "Integrity": "Z5dlE1lumz+jzDHT19VFUs1v9kQ87l8f84PpWMhJjuk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bg-auth.png"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\fav.png",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "fav#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tubadz1fil",
+      "Integrity": "hcPj8HP0pGQ2huCmEdsyn2q3Ji7dHGA0Qsvxe7qedsU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fav.png"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\github_Icon.png",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "github_Icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p65pt4pt10",
+      "Integrity": "gYN6NKEYItt0ZDcQEXuSni+5FyPWqD6TD6n+SwqijhA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\github_Icon.png"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Google_Icon.png",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "Google_Icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "14sv9v6zdn",
+      "Integrity": "EUXteMl4oLdexj5C29hfn9UCFW7s/nu/6TkGYDznYI4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Google_Icon.png"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\index.html",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76pqtp3yg7",
+      "Integrity": "7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\logo.png",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qa8gee5qmx",
+      "Integrity": "AiRfcQMWP4lNB5oorj0XqhFPibW7qUe64v/MH4CKuXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\vite.svg",
+      "SourceId": "SmartLifeSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\",
+      "BasePath": "_content/SmartLifeSolution",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Apple_Icon.bdbmobmrrk.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Apple_Icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DycTL8l5J8ctF68heVxxFwZ3UUWC/KMrE8aiiW1W22I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bdbmobmrrk"
+        },
+        {
+          "Name": "label",
+          "Value": "Apple_Icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DycTL8l5J8ctF68heVxxFwZ3UUWC/KMrE8aiiW1W22I="
+        }
+      ]
+    },
+    {
+      "Route": "Apple_Icon.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Apple_Icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DycTL8l5J8ctF68heVxxFwZ3UUWC/KMrE8aiiW1W22I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DycTL8l5J8ctF68heVxxFwZ3UUWC/KMrE8aiiW1W22I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrejhCoQ.i5d44bnc3y.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\8c8w5zwv22-i5d44bnc3y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000009994004"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100059"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5d44bnc3y"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BrejhCoQ.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrejhCoQ.i5d44bnc3y.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-BrejhCoQ.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5d44bnc3y"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BrejhCoQ.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrejhCoQ.i5d44bnc3y.js.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\8c8w5zwv22-i5d44bnc3y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5d44bnc3y"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BrejhCoQ.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrejhCoQ.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\8c8w5zwv22-i5d44bnc3y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000009994004"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100059"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrejhCoQ.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-BrejhCoQ.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lhuv/uRQauQ5E5JrlnwaMpRjQc/FjMPySKGJDHFmYdI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BrejhCoQ.js.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\8c8w5zwv22-i5d44bnc3y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BUWsnLaC0IxCN58FgEmFus0sc9Ul+ekiSgvtJRb/IsQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CODeLwE2.5oxsbz4eul.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\5tkgpo8zro-5oxsbz4eul.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032050255"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31200"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5oxsbz4eul"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CODeLwE2.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CODeLwE2.5oxsbz4eul.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-CODeLwE2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5oxsbz4eul"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CODeLwE2.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CODeLwE2.5oxsbz4eul.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\5tkgpo8zro-5oxsbz4eul.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5oxsbz4eul"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-CODeLwE2.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CODeLwE2.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\5tkgpo8zro-5oxsbz4eul.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032050255"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31200"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CODeLwE2.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-CODeLwE2.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0/nz4mNoD2e839p8+546WBjxoCgwBO+6ajurOZ+iVo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-CODeLwE2.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\5tkgpo8zro-5oxsbz4eul.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TKA59vQPDPO6W43zHHGu6sjFhv2TcuxDTfeZwLPzpnY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Df1q8VJG.0r10hgpfil.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\oor3uh5ztt-0r10hgpfil.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000009994403"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0r10hgpfil"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Df1q8VJG.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Df1q8VJG.0r10hgpfil.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-Df1q8VJG.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0r10hgpfil"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Df1q8VJG.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Df1q8VJG.0r10hgpfil.js.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\oor3uh5ztt-0r10hgpfil.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0r10hgpfil"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Df1q8VJG.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Df1q8VJG.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\oor3uh5ztt-0r10hgpfil.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000009994403"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100055"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Df1q8VJG.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-Df1q8VJG.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JLbdYQYvipmQ9yUnvwLV6KV/GQlvKr1JbAEmQnIaKF0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Df1q8VJG.js.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\oor3uh5ztt-0r10hgpfil.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XqfqEBFN5eA8mmJirQTglUZ6sEz3GnfykX8Yr1T1LEU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DY1Lnfhq.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\mf9s6fpuol-wxhvy5g8rx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032110976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31141"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DY1Lnfhq.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-DY1Lnfhq.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DY1Lnfhq.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\mf9s6fpuol-wxhvy5g8rx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DY1Lnfhq.wxhvy5g8rx.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\mf9s6fpuol-wxhvy5g8rx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032110976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31141"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxhvy5g8rx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DY1Lnfhq.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DY1Lnfhq.wxhvy5g8rx.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-DY1Lnfhq.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxhvy5g8rx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DY1Lnfhq.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lALlq7UY3GE0WiztvMnrGkNCrXFLEcp2zBO0oZPbDYY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DY1Lnfhq.wxhvy5g8rx.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\mf9s6fpuol-wxhvy5g8rx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wxhvy5g8rx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DY1Lnfhq.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pKNZXKhm4LJ//v/RW6w4SNd/a7XPtL08QJm1PFA7DTk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-FVXuzn6g.cb2yupf0uo.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\yrakonpi03-cb2yupf0uo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010191291"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98122"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cb2yupf0uo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-FVXuzn6g.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-FVXuzn6g.cb2yupf0uo.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-FVXuzn6g.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cb2yupf0uo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-FVXuzn6g.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-FVXuzn6g.cb2yupf0uo.js.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\yrakonpi03-cb2yupf0uo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cb2yupf0uo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-FVXuzn6g.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-FVXuzn6g.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\yrakonpi03-cb2yupf0uo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010191291"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98122"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-FVXuzn6g.js",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\assets\\index-FVXuzn6g.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OBIDcmzlPu45xw+9uZAfbs1OVMGf1BU2Xzq55bxNZWA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-FVXuzn6g.js.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\yrakonpi03-cb2yupf0uo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 14:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-61vrhqUSyMK9yG8Pi4QooYd7p6GIvxcSn/Ya4VgARvs="
+        }
+      ]
+    },
+    {
+      "Route": "bg-auth.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\bg-auth.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "874579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5dlE1lumz+jzDHT19VFUs1v9kQ87l8f84PpWMhJjuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:33:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5dlE1lumz+jzDHT19VFUs1v9kQ87l8f84PpWMhJjuk="
+        }
+      ]
+    },
+    {
+      "Route": "bg-auth.ps5xxbcpvm.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\bg-auth.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "874579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5dlE1lumz+jzDHT19VFUs1v9kQ87l8f84PpWMhJjuk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 10:33:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ps5xxbcpvm"
+        },
+        {
+          "Name": "label",
+          "Value": "bg-auth.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5dlE1lumz+jzDHT19VFUs1v9kQ87l8f84PpWMhJjuk="
+        }
+      ]
+    },
+    {
+      "Route": "fav.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\fav.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hcPj8HP0pGQ2huCmEdsyn2q3Ji7dHGA0Qsvxe7qedsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hcPj8HP0pGQ2huCmEdsyn2q3Ji7dHGA0Qsvxe7qedsU="
+        }
+      ]
+    },
+    {
+      "Route": "fav.tubadz1fil.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\fav.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hcPj8HP0pGQ2huCmEdsyn2q3Ji7dHGA0Qsvxe7qedsU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tubadz1fil"
+        },
+        {
+          "Name": "label",
+          "Value": "fav.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hcPj8HP0pGQ2huCmEdsyn2q3Ji7dHGA0Qsvxe7qedsU="
+        }
+      ]
+    },
+    {
+      "Route": "github_Icon.p65pt4pt10.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\github_Icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gYN6NKEYItt0ZDcQEXuSni+5FyPWqD6TD6n+SwqijhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p65pt4pt10"
+        },
+        {
+          "Name": "label",
+          "Value": "github_Icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gYN6NKEYItt0ZDcQEXuSni+5FyPWqD6TD6n+SwqijhA="
+        }
+      ]
+    },
+    {
+      "Route": "github_Icon.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\github_Icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gYN6NKEYItt0ZDcQEXuSni+5FyPWqD6TD6n+SwqijhA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gYN6NKEYItt0ZDcQEXuSni+5FyPWqD6TD6n+SwqijhA="
+        }
+      ]
+    },
+    {
+      "Route": "Google_Icon.14sv9v6zdn.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Google_Icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUXteMl4oLdexj5C29hfn9UCFW7s/nu/6TkGYDznYI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14sv9v6zdn"
+        },
+        {
+          "Name": "label",
+          "Value": "Google_Icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EUXteMl4oLdexj5C29hfn9UCFW7s/nu/6TkGYDznYI4="
+        }
+      ]
+    },
+    {
+      "Route": "Google_Icon.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\Google_Icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EUXteMl4oLdexj5C29hfn9UCFW7s/nu/6TkGYDznYI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EUXteMl4oLdexj5C29hfn9UCFW7s/nu/6TkGYDznYI4="
+        }
+      ]
+    },
+    {
+      "Route": "index.76pqtp3yg7.html",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\hp42efmdr2-76pqtp3yg7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002652519894"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76pqtp3yg7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0="
+        }
+      ]
+    },
+    {
+      "Route": "index.76pqtp3yg7.html",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76pqtp3yg7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0="
+        }
+      ]
+    },
+    {
+      "Route": "index.76pqtp3yg7.html.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\hp42efmdr2-76pqtp3yg7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76pqtp3yg7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\hp42efmdr2-76pqtp3yg7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002652519894"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7/Jhbmh4nm9li8/n4lbn2zOcmQbfgnOlJZEtUSy11s0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\hp42efmdr2-76pqtp3yg7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 12:12:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-11YSbSQoK0GjXl+3MO9GXNee7264RsZ0pyc9AdARUYQ="
+        }
+      ]
+    },
+    {
+      "Route": "logo.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AiRfcQMWP4lNB5oorj0XqhFPibW7qUe64v/MH4CKuXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AiRfcQMWP4lNB5oorj0XqhFPibW7qUe64v/MH4CKuXg="
+        }
+      ]
+    },
+    {
+      "Route": "logo.qa8gee5qmx.png",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AiRfcQMWP4lNB5oorj0XqhFPibW7qUe64v/MH4CKuXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 15:10:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qa8gee5qmx"
+        },
+        {
+          "Name": "label",
+          "Value": "logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AiRfcQMWP4lNB5oorj0XqhFPibW7qUe64v/MH4CKuXg="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.aggbpj5b9v.bundle.scp.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\nqc7f4ojsz-aggbpj5b9v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001828153565"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aggbpj5b9v"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartLifeSolution.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.aggbpj5b9v.bundle.scp.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aggbpj5b9v"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartLifeSolution.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.aggbpj5b9v.bundle.scp.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\nqc7f4ojsz-aggbpj5b9v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aggbpj5b9v"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartLifeSolution.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.aggbpj5b9v.styles.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\4jifzij1u8-aggbpj5b9v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001828153565"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aggbpj5b9v"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartLifeSolution.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.aggbpj5b9v.styles.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\SmartLifeSolution.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aggbpj5b9v"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartLifeSolution.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.aggbpj5b9v.styles.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\4jifzij1u8-aggbpj5b9v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aggbpj5b9v"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartLifeSolution.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.bundle.scp.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\nqc7f4ojsz-aggbpj5b9v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001828153565"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.bundle.scp.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\SmartLifeSolution.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.bundle.scp.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\nqc7f4ojsz-aggbpj5b9v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.styles.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\4jifzij1u8-aggbpj5b9v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001828153565"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.styles.css",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\scopedcss\\bundle\\SmartLifeSolution.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ch3Q9aL57CpuiVqw7DgQIMa2EGhYgNY5gniV5w0Q5nc="
+        }
+      ]
+    },
+    {
+      "Route": "SmartLifeSolution.styles.css.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\4jifzij1u8-aggbpj5b9v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 11:52:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjNwyup0jPdPGcX3VQJAiAYvcehHWWrzaYQ09AwcKfs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\jmyqlqlgbv-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001295336788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\jmyqlqlgbv-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\jmyqlqlgbv-69kjnsiwqx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001295336788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg.gz",
+      "AssetFile": "D:\\myprojects\\smartlifesolution\\SmartLifeSolution\\SmartLifeSolution\\obj\\Release\\net9.0\\compressed\\jmyqlqlgbv-69kjnsiwqx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "771"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-42ZKYnnpG2O7vIztmMCZl7s7P7zEVzwp4uJimFruiSY="
+        }
+      ]
+    }
+  ]
+}

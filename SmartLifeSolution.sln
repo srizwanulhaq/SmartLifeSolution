@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLifeSolution", "SmartLifeSolution\SmartLifeSolution.csproj", "{B75AAA12-8A73-4F47-88DF-D4A76D670355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLifeSolution.BLL", "SmartLifeSolution.BLL\SmartLifeSolution.BLL.csproj", "{3B2CA71C-712D-4102-AC3B-52285C4E49D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLifeSolution.DAL", "SmartLifeSolution.DAL\SmartLifeSolution.DAL.csproj", "{57742BF8-1AFD-431A-B470-1024FF093BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttServer", "MqttServer\MqttServer.csproj", "{7D6055D0-A9DF-4FCC-84F4-824EA496DEC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75AAA12-8A73-4F47-88DF-D4A76D670355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75AAA12-8A73-4F47-88DF-D4A76D670355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75AAA12-8A73-4F47-88DF-D4A76D670355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75AAA12-8A73-4F47-88DF-D4A76D670355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2CA71C-712D-4102-AC3B-52285C4E49D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2CA71C-712D-4102-AC3B-52285C4E49D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2CA71C-712D-4102-AC3B-52285C4E49D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2CA71C-712D-4102-AC3B-52285C4E49D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57742BF8-1AFD-431A-B470-1024FF093BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57742BF8-1AFD-431A-B470-1024FF093BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57742BF8-1AFD-431A-B470-1024FF093BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57742BF8-1AFD-431A-B470-1024FF093BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6055D0-A9DF-4FCC-84F4-824EA496DEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6055D0-A9DF-4FCC-84F4-824EA496DEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6055D0-A9DF-4FCC-84F4-824EA496DEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6055D0-A9DF-4FCC-84F4-824EA496DEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
